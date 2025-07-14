@@ -1,2 +1,2 @@
 fixed bug 1
-FIXED bug ONE
+FIXED BUG 1
